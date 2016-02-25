@@ -6,4 +6,4 @@ and zoom with mousewheel.
 
 Simple ProgressBar is also avaliable.
 
-![shot]()
+![shot](https://github.com/a-andreyev/qml-presenter/raw/master/shots/shot1.png)
